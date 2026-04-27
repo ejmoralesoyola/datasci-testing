@@ -1,0 +1,15 @@
+---
+title: "test_repo_code"
+author: "Erick Morales Oyola"
+format: pdf
+editor: source
+---
+
+# 1. Set up 
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
